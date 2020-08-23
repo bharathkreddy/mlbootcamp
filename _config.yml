@@ -28,7 +28,7 @@ twitter_username: Bharath95440790
 github_username:  bharathkreddy
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
