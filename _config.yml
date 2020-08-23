@@ -18,16 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: ML BOOTCAMP
+email: reddybharath.k@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Course page for ML Bootcamp. All the material for previous sessions and upcomming sessions are saved here.
 baseurl: "/mlbootcamp" # the subpath of your site, e.g. /blog
 url: "https://bharathkreddy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Bharath95440790
+github_username:  bharathkreddy
 
 # Build settings
 theme: minima
