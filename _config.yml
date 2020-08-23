@@ -26,6 +26,9 @@ baseurl: "/mlbootcamp" # the subpath of your site, e.g. /blog
 url: "https://bharathkreddy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Bharath95440790
 github_username:  bharathkreddy
+author: Bharath k. reddy
+copyright: "www.bharathkreddy.com"
+linkedin_username: bharath-k-reddy
 
 # Build settings
 # theme: minima
