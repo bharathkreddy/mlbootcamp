@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Week6 26th September 2020"
+date:   2020-09-20 19:31:56 +0530
+categories: jekyll update
+---
+
+<a href="https://www.bharathkreddy.com"><img align="left" src="https://i.imgur.com/axjt3Qe.png" alt="WWW.BHARARTHKREDDY.COM" title="www.bharathkreddy.com"></a>
+# [www.bharathkreddy.com](https://www.bharathkreddy.com)
+
+## Material for Week 5 of ML boot camp. 
+
+> Prerequisites - you should be familiar and should at least be able to understand below
+> * Numpy
+> * Pandas
+> * Matplotlib
+> * Able to use sklearn to split the dataset in test and train datasets
+> * Able to use sklearn to pre-preocess the data and use sklearn pipelines
+
+### YOUR CHECKLIST FOR SESSION ON 26th SEPT @ 13:30 PM IST
+
+
+> Items ticked are highly recomended to be completed before session, unticked ones are for the more adventerous of you :)
+
+
+- [x] Day1: Read the theory on Logistic regression from my [Github Repositary](https://github.com/bharathkreddy/Logistic-Regression/blob/master/README.md), see the readme file in repo.
+- [x] Day2: Practice - Using sklearn pre-processing pipelines until you are comfortable using them. You would see i have used them again in the notebook in my github repo.
+- [x] Day3: Try recreate the steps in the notebook in my github repo on [titanic dataset](https://www.kaggle.com/c/titanic/data)
+- [x] Day4: Revise Logistic regression week 4 & week 5 Material.
+- [ ] Day5: If you are done with all above - check the week 7 material metioned in my [github repo](https://github.com/bharathkreddy/Logistic-Regression 
+
+### SLIDE DECK)
+---
+
+
+---
+
+#### Hoping to see you soon in the session.
+
+# [www.bharathkreddy.com](https://www.bharathkreddy.com)
